@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Análise de Componentes Principais](https://vanderfsouza.github.io/pca/pca/)
+[Análise de Componentes Principais - Principal Component Analysis - PCA](https://vanderfsouza.github.io/pca/pca/)
 <img src="images/pca.jpg?raw=true"/>
 
 ---
