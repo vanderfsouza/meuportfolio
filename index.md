@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projetos
 
 [Análise de Componentes Principais - Principal Component Analysis - PCA](https://vanderfsouza.github.io/pca/pca/)
 <img src="images/pca.jpeg?raw=true"/>
